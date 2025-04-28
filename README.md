@@ -2,6 +2,10 @@
 
 Aplicativo Flutter para demonstração de um cardápio digital de restaurantes, desenvolvido durante a **Imersão Mobile da Alura**.
 
+
+<p align="center">
+  <img src="assets/image.png" alt="TechTaste App" width="320" style="border-radius: 16px; box-shadow: 0 4px 12px #0002;">
+</p>
 ---
 
 ## 📋 Descrição
